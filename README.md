@@ -6,8 +6,8 @@ This Python script automates the process of submitting files to the Palo Alto Ne
 
 * Uploads files from a specified directory to the WildFire API.
 * Retrieves the WildFire verdict for each uploaded file, with multiple attempts (3) to ensure accuracy.
-* Saves the file information and verdict to a CSV file.
-
+* Saves the file information and verdict to a CSV file
+  
 ## Features
 
 * File upload to WildFire API.
